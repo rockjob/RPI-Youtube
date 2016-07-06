@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RPI-Youtube</string>
+    <string name="hello_world">Press button to connect</string>
+    <string name="hello_world2">It worked!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Connect</string>
+	<string name="button2">Send</string>
+</resources>
