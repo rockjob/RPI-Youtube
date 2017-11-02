@@ -1,0 +1,6 @@
+Android app to somewhat mimic the play on tv function using youtube with a chromecast.
+
+1) Install app
+2) Find youtube video in youtube app
+3) Tap share and select the app from the list
+4) App will launch and connects to raspberry pi and uses omxplayer to play video on tv
